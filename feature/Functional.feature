@@ -6,6 +6,6 @@ Feature: Yahoo search
 
 Examples:
 |input|this|
-|test|validkey|
+|test|fail|
 |test2|fail|
 |test3|fail|
