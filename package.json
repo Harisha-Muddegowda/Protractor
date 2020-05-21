@@ -1,0 +1,21 @@
+{
+  "name": "Test",
+  "version": "1.0.0",
+  "description": "Test framework for project Test",
+  "main": "conf.js",
+  "keywords": [
+    "test"
+  ],
+  "author": "Praveen David Mathew",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "cucumber": "^3.1.0",
+    "cucumber-html-reporter": "^5.2.0",
+    "cucumberjs-allure-reporter": "^1.0.3",
+    "pg": "^6.0.3",
+    "protractor-cucumber-framework": "^6.2.0"
+  }
+}
